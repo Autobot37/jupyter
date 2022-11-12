@@ -1,1 +1,3 @@
-
+for simple regression there are many function spaces, but as the complexity grows , there will be infinitely,
+so what prior or inductive bias we have to include there such that we can effeciently find function for our models.
+or it can generalise well beyond training data , Neural networks can do this(to some extent in their manifold), but there have to be some sort of abstraction.
